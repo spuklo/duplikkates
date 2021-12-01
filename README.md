@@ -1,1 +1,1 @@
-Finds duplicated files and is implemented in Akka, using Kotlin. Lovely. ;-)
+Finds duplicated files and is implemented in Kotlin, using Akka. Lovely. ;-)
